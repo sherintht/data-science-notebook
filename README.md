@@ -26,8 +26,8 @@ To perform data cleaning and preprocessing on a raw dataset to make it analysis-
 
 ## 🛠 Tools Used
 
-- Python 3.x  
+- Python 3.12
 - Pandas  
-- Jupyter Notebook / VS Code
+- Jupyter Notebook
 
 ---
